@@ -11,7 +11,7 @@
 ## What it is
 
 Give Provelox an image or a Docker Compose project and it gives you a domain, automatic HTTPS, logs, usage graphs and
-rollbacks, from a web console or an API. It runs on your own servers and replaces tools such as CapRover.
+rollbacks, from a web console or an API. It runs on your own servers.
 
 - **One image** holds the API, the proxy setup and the web console.
 - **Compose-native:** it understands Docker Compose projects, not only single images.
