@@ -1,0 +1,33 @@
+name: Bug report
+description: Something does not work as it should
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. **Security problems:** do not report them here; see our [security policy](https://github.com/provelox/.github/blob/main/SECURITY.md).
+  - type: input
+    id: version
+    attributes:
+      label: Provelox version
+      description: The release you run, for example 0.5.0 (shown in the console footer)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you saw instead
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. …\n2. …"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Remove passwords, tokens and domains you do not want to share
+      render: shell
