@@ -21,9 +21,9 @@ rollbacks, from a web console or an API. It runs on your own servers.
 ## Open source
 
 Provelox is released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). The container image is
-`ghcr.io/provelox/provelox`. The source code is being published at
-[provelox/provelox](https://github.com/provelox/provelox); contributions are welcome, signed off under the
-[Developer Certificate of Origin](https://developercertificate.org/).
+`ghcr.io/provelox/provelox`. The source code is at
+[provelox/provelox](https://github.com/provelox/provelox); issues and ideas are welcome. We are not
+accepting pull requests yet; see the [contributing notes](https://github.com/provelox/provelox/blob/main/CONTRIBUTING.md).
 
 ## Security
 

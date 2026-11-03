@@ -1,3 +1,6 @@
+> **We are not accepting pull requests yet.** Please [open an issue](https://github.com/provelox/provelox/issues) instead; see
+> [CONTRIBUTING.md](https://github.com/provelox/provelox/blob/main/CONTRIBUTING.md).
+
 ## What and why
 
 <!-- What does this change, and why? Link the issue if there is one. -->
